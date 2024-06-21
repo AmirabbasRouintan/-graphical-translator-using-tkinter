@@ -25,6 +25,6 @@ This is a Python script that translates words from English into their meanings u
 To install this script, simply download or clone the repository and run the ixi_flower_translator.py file using your preferred Python interpreter.
 
 ```bash
-git clone https://github.com/yourusername/ixi_flower_translator.git
+git clone https://github.com/AmirabbasRouintan/-graphical-translator-using-tkinter.git
 cd ixi_flower_translator
 python ixi_flower_translator.py
