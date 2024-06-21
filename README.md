@@ -1,3 +1,5 @@
+![Screenshot 2024-06-21 135739](https://github.com/AmirabbasRouintan/-graphical-translator-using-tkinter/assets/110909074/5158b1ed-f7a2-4bc5-adc8-093046fc73d1)
+---
 # ixi_flower_translator 💐
 A simple graphical translator using tkinter and dictionaryapi
 
